@@ -63,7 +63,7 @@ if (empty($_GET)) {
 
     }
 }
-Jopa
+
 ?>
 </body>
 
