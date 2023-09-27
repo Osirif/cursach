@@ -106,3 +106,11 @@ input {
 .wrapper{
     margin-left: 50px;
 }
+
+.section{
+
+    flex-direction: column;
+    background: #fff;
+    width: 60%;
+
+}
